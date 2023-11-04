@@ -20,7 +20,7 @@ extensions = {
      "zip": "arquivo",
      "gz": "arquivo",
      "tar": "arquivo",
-     "docx": "palavra",
+     "docx": "word",
      "torrent": "torrent",
      "txt": "texto",
      "py": "python",
@@ -38,6 +38,7 @@ extensions = {
      "html": "web",
      "apk": "apk",
      "sqlite3": "sqlite3",
+     "rtf": "word",
 }
 
 path = r"C:\Users\diogo\Downloads"
